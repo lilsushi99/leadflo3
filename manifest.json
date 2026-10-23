@@ -1,0 +1,72 @@
+[
+  {
+    "id": "flutterwave",
+    "name": "Flutterwave",
+    "logoUrl": "https://flutterwave.com/images/logo/full.svg",
+    "officialSource": "https://flutterwave.com/images/logo/full.svg",
+    "localPath": "/assets/integrations/flutterwave.svg"
+  },
+  {
+    "id": "paystack",
+    "name": "Paystack",
+    "logoUrl": "https://s3-eu-west-1.amazonaws.com/pstk-integration-logos/paystack.jpg",
+    "officialSource": "https://docs-v2.paystack.com integration logos bucket",
+    "localPath": "/assets/integrations/paystack.jpg"
+  },
+  {
+    "id": "google-workspace",
+    "name": "Google Workspace",
+    "logoUrl": "https://workspace.google.com/static/img/google-workspace-logo.svg",
+    "officialSource": "https://workspace.google.com/static/img/google-workspace-logo.svg",
+    "localPath": "/assets/integrations/google-workspace.svg"
+  },
+  {
+    "id": "gmail",
+    "name": "Gmail",
+    "logoUrl": "https://www.gstatic.com/images/branding/productlogos/gmail_2026/v2/web/192px.svg",
+    "officialSource": "https://www.gstatic.com/images/branding/productlogos/gmail_2026/v2/web/192px.svg",
+    "localPath": "/assets/integrations/gmail.svg"
+  },
+  {
+    "id": "outlook",
+    "name": "Microsoft Outlook",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg",
+    "officialSource": "Microsoft Outlook official icon 2019-present",
+    "localPath": "/assets/integrations/outlook.svg"
+  },
+  {
+    "id": "slack",
+    "name": "Slack",
+    "logoUrl": "https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png",
+    "officialSource": "https://a.slack-edge.com/9cc0056/marketing/img/nav/logo.svg \u2014 Slack official website",
+    "localPath": "/assets/integrations/slack.png"
+  },
+  {
+    "id": "hubspot",
+    "name": "HubSpot",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/HubSpot_Logo.svg",
+    "officialSource": "HubSpot official sprocket orange #FF7A59",
+    "localPath": "/assets/integrations/hubspot.svg"
+  },
+  {
+    "id": "salesforce",
+    "name": "Salesforce",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Salesforce.com_logo.svg",
+    "officialSource": "https://commons.wikimedia.org/wiki/File:Salesforce.com_logo.svg and https://login.salesforce.com/icons/salesforce-black.png",
+    "localPath": "/assets/integrations/salesforce.svg"
+  },
+  {
+    "id": "mailchimp",
+    "name": "Mailchimp",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mailchimp_logo.svg",
+    "officialSource": "https://mailchimp.com/about/brand-assets/",
+    "localPath": "/assets/integrations/mailchimp.svg"
+  },
+  {
+    "id": "zapier",
+    "name": "Zapier",
+    "logoUrl": "https://raw.githubusercontent.com/zapier/zapier-mcp/main/plugins/zapier/assets/logo.svg",
+    "officialSource": "Zapier brand assets folder and https://zapier.com/brand",
+    "localPath": "/assets/integrations/zapier.svg"
+  }
+]

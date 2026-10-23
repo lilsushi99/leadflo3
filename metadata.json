@@ -1,0 +1,6 @@
+{
+  "name": "LeadFlow CRM",
+  "description": "LeadFlow CRM - Discover, Rate, Convert, and Measure leads across branches and campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
